@@ -28,7 +28,7 @@ Con esta información, el ciego concluye que, dado que ambos prisioneros no pudi
    ```
 2. Navega al directorio del proyecto:
    ```bash
-   cd el-ciego-inteligente
+   cd The-Intelligent-Blind-Man
    ```
 3. Ejecuta el programa:
    ```bash
