@@ -17,7 +17,7 @@ El razonamiento del prisionero ciego se basa en las respuestas de los otros dos 
 
 1. **El prisionero con vista normal** no pudo adivinar el color de su boina. Esto indica que, al observar las boinas de los otros dos, no vio dos boinas negras; si hubiera visto eso, habría deducido que su propia boina era blanca. Por lo tanto, al menos uno de los otros prisioneros (el tuerto o el ciego) debe estar usando una boina blanca.
 
-2. **El prisionero tuerto** también confesó que no podía deducir el color de su boina. Si el prisionero ciego tuviera una boina negra, el prisionero tuerto, al ver una boina blanca en el prisionero normal, habría deducido que su propia boina era negra. Su incapacidad para deducir su color significa que también lleva una boina blanca.
+2. **El prisionero tuerto** también confesó que no podía deducir el color de su boina. Si el prisionero ciego tuviera una boina negra, el prisionero tuerto, habría deducido que su propia boina era blanca, de lo controrio el primer prisionero hubiera deducido el color de la boina. Su incapacidad para deducir su color significa que también lleva una boina blanca.
 
 Con esta información, el ciego concluye que, dado que ambos prisioneros no pudieron deducir el color de sus boinas, él debe llevar una boina blanca.
 
